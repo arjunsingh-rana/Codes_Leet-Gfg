@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
