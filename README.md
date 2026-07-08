@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0647-palindromic-substrings) |
 ## Recursion
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0485-max-consecutive-ones](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0485-max-consecutive-ones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
