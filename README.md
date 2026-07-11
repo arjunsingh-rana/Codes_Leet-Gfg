@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0485-max-consecutive-ones](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0485-max-consecutive-ones) |
+| [0739-daily-temperatures](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0739-daily-temperatures) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0226-invert-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
