@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0152-maximum-product-subarray) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
