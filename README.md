@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -104,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
