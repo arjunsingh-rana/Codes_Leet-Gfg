@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0198-house-robber) |
 | [0485-max-consecutive-ones](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0746-min-cost-climbing-stairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
