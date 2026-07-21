@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0162-find-peak-element) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Combinatorics
 |  |
 | ------- |
