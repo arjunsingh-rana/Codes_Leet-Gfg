@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0647-palindromic-substrings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
