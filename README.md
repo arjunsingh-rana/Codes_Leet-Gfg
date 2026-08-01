@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0198-house-robber) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
