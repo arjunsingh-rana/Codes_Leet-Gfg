@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2390-removing-stars-from-a-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
