@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1143-longest-common-subsequence) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2390-removing-stars-from-a-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Array
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0852-peak-index-in-a-mountain-array) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
