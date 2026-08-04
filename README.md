@@ -149,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2390-removing-stars-from-a-string) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
