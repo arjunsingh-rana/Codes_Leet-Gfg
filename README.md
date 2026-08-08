@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0746-min-cost-climbing-stairs) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -128,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
