@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0876-middle-of-the-linked-list) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0496-next-greater-element-i) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0349-intersection-of-two-arrays](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Combinatorics
 |  |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1221-split-a-string-in-balanced-strings) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
