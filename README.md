@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0516-longest-palindromic-subsequence) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0876-middle-of-the-linked-list) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
