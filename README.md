@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
