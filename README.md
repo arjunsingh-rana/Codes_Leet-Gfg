@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0416-partition-equal-subset-sum) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Combinatorics
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -183,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
