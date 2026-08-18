@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0349-intersection-of-two-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0680-valid-palindrome-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arjunsingh-rana/Codes_Leet-Gfg/tree/master/0035-search-insert-position) |
